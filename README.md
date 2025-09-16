@@ -49,6 +49,10 @@ Project Link : https://github.com/Omkarbhargude/Projects/tree/main/Generalised%2
 
 ⚙️ Customised Virtual File System (CVFS)
 
+This project is coustom implementation of virtual file system (VFS) that simulates the core functionality of linux file system. it is entirely build on C , with its own custom shell to interact with the virtual environment.
+
+Project Link : 
+
 
 
 ---
