@@ -27,9 +27,9 @@
 
 
 🌐 Connect With Me
-  Email     :   omkarbhargude29@gmail.com
-  LinkedIn  :   linkedin.com/in/omkar-bhargude-609a92311/
-  GitHub    :   github.com/Omkarbhargude/
+Email     :   omkarbhargude29@gmail.com
+LinkedIn  :   linkedin.com/in/omkar-bhargude-609a92311/
+GitHub    :   github.com/Omkarbhargude/
 
 ---
 
