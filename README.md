@@ -63,7 +63,7 @@ Project Link : https://github.com/Omkarbhargude/Projects/tree/main/File%20Packer
 
 🔧 This is a Console-based java application designed to help students systematically log, track, summarize, and export their study activity
 
-Project Link : 
+Project Link : https://github.com/Omkarbhargude/Projects/tree/main/Marvellous%20Study%20Tracker%20App
 
 
 
@@ -74,6 +74,7 @@ Project Link :
 🌐 Connect With Me
 - 📧 Email: [omkarbhargude29@gmail.com](mailto:omkarbhargude29@gmail.com)  
 - 💼 LinkedIn: [Omkar Bhargude](https://www.linkedin.com/in/omkar-bhargude-609a92311/)
+- 🚀 GitHub : https://github.com/Omkarbhargude/
 
 ---
 
