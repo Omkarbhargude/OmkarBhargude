@@ -50,7 +50,7 @@ Designed as a reusable library that can be linked with client applications.
 #### ⚙️ Customised Virtual File System (CVFS)
 A custom implementation of a Virtual File System that simulates the core functionality of the Linux file system.  
 Built entirely in **C**, with its own shell to interact with the virtual environment.  
-🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/Customised%20Virtual%20File%20System)
+🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/Customised%20Virtual%20File%20System%20(CVFS))
 
 ---
 
@@ -58,7 +58,7 @@ Built entirely in **C**, with its own shell to interact with the virtual environ
 A Java-based utility tool that packs multiple files into a single archive and unpacks them while preserving metadata.  
 To enhance security, the packed file is encrypted, and only authorised users can decrypt & extract the data.  
 This project also features a **Graphical User Interface** for user-friendly interaction.  
-🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/File%20Packer%20%26%20Unpacker)
+🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/File%20Packer%20%26%20Unpacker%20)
 
 ---
 
