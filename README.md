@@ -40,9 +40,9 @@ Version Control**
 
 📂 Featured Projects
 
-🗂️ Generalised Data Structure Library
+📚 Generalised Data Structure Library
 
-📚 This project is a C++ library of generic data structures that provides object-oriented implementation of both linear and non-linear data structure.
+💾 This project is a C++ library of generic data structures that provides object-oriented implementation of both linear and non-linear data structure.
 designed as a reusable C++ library that can be linked with client application
 
 Project Link : https://github.com/Omkarbhargude/Projects/tree/main/Generalised%20Data%20Structure%20Library
@@ -50,6 +50,12 @@ Project Link : https://github.com/Omkarbhargude/Projects/tree/main/Generalised%2
 ⚙️ Customised Virtual File System (CVFS)
 
 This project is coustom implementation of virtual file system (VFS) that simulates the core functionality of linux file system. it is entirely build on C , with its own custom shell to interact with the virtual environment.
+
+Project Link : https://github.com/Omkarbhargude/Projects/tree/main/Generalised%20Data%20Structure%20Library
+
+🗂️ File Packer & Unpacker
+
+📚  This project  is a Java-based file utility tool that provides functionality for packing multiple files into single archive and unpacking them back all with all the metadata preserved
 
 Project Link : 
 
