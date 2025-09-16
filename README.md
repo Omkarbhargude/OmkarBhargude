@@ -23,10 +23,12 @@
 📂 Featured Projects
 
 🗂️ Generalised Data Structure Library 
-  A comprehensive library of data structures implemented in C++, including linked lists, binary search tree, stacks, queues, and searching/sorting algorithms.
+
+A comprehensive library of data structures implemented in C++, including linked lists, binary search tree, stacks, queues, and searching/sorting algorithms.
 
 
-🌐 Connect With Me
+🌐 Connect With Me    
+            
 Email     :   omkarbhargude29@gmail.com
 LinkedIn  :   linkedin.com/in/omkar-bhargude-609a92311/
 GitHub    :   github.com/Omkarbhargude/
