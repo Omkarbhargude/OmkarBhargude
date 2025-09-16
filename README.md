@@ -42,13 +42,14 @@ Version Control**
 
 🗂️ Generalised Data Structure Library
 📚 A comprehensive library of data structures implemented in **C++**, including linked lists, binary search tree, stacks, queues, and searching/sorting algorithms.
+
 Project Link : https://github.com/Omkarbhargude/Projects/tree/main/Generalised%20Data%20Structure%20Library
 
 ---
 
 🌐 Connect With Me
-- 📧 **Email: [omkarbhargude29@gmail.com](mailto:omkarbhargude29@gmail.com)  
-- 💼 **LinkedIn: [Omkar Bhargude](https://www.linkedin.com/in/omkar-bhargude-609a92311/)
+- 📧 Email: [omkarbhargude29@gmail.com](mailto:omkarbhargude29@gmail.com)  
+- 💼 LinkedIn: [Omkar Bhargude](https://www.linkedin.com/in/omkar-bhargude-609a92311/)
 
 ---
 
