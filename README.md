@@ -41,30 +41,30 @@
 ### 📂 Featured Projects
 
 #### 📚 Generalised Data Structure Library
-💾 A C++ library of generic data structures providing object-oriented implementations of both linear and non-linear structures.  
+A C++ library of generic data structures providing object-oriented implementations of both linear and non-linear structures.  
 Designed as a reusable library that can be linked with client applications.  
 🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/Generalised%20Data%20Structure%20Library)
 
 ---
 
 #### ⚙️ Customised Virtual File System (CVFS)
-💻 A custom implementation of a Virtual File System that simulates the core functionality of the Linux file system.  
+A custom implementation of a Virtual File System that simulates the core functionality of the Linux file system.  
 Built entirely in **C**, with its own shell to interact with the virtual environment.  
 🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/Customised%20Virtual%20File%20System)
 
 ---
 
 #### 🗂️ File Packer & Unpacker
-📚 A Java-based utility tool that packs multiple files into a single archive and unpacks them while preserving metadata.  
-🔐 To enhance security, the packed file is encrypted, and only authorised users can decrypt & extract the data.  
-🖥️ This project also features a **Graphical User Interface** for user-friendly interaction.  
+A Java-based utility tool that packs multiple files into a single archive and unpacks them while preserving metadata.  
+To enhance security, the packed file is encrypted, and only authorised users can decrypt & extract the data.  
+This project also features a **Graphical User Interface** for user-friendly interaction.  
 🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/File%20Packer%20%26%20Unpacker)
 
 ---
 
 #### 🧰 Marvellous Study Tracker App
-🔧 A console-based Java application to help students log, track, summarise, and export their study activity.  
-📊 It allows users to maintain daily study records, view summarised grouped data by subject, and export all logs as a **CSV file** for offline reference.  
+A console-based Java application to help students log, track, summarise, and export their study activity.  
+It allows users to maintain daily study records, view summarised grouped data by subject, and export all logs as a **CSV file** for offline reference.  
 🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/Marvellous%20Study%20Tracker%20App)
 
 ---
