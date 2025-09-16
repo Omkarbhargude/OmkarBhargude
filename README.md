@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Omkar Mahadev Bhargude
 
-<!--
-**Omkarbhargude/OmkarBhargude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+- 🎓 3rd-year Computer Science student passionate about building efficient software.
+- 💻 Proficient in C, C++, Java, and exploring JavaScript, Spring Boot & Web Development.
+- 🧩  Interested in solving problems, implementing data structures & algorithms, and writing clean code.
+- 🌱 Currently learning Spring Boot, Win32 SDK and refining my DSA skills.
+- 🎯 Goal: Become a Full-Stack Developer with strong system programming knowledge.
 
-Here are some ideas to get you started:
+🛠️ Technical skills :-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Programming Paradigms & Languages
+    • Procedural Programming             : C.
+    • Object-Oriented Programming (OOP)  : C++
+    • Virtual Machine-based Programming  : Java.
+    • Scripting Languages                : JavaScript
+    
+    Web Technologies   :  HTML/HTML5, CSS2/CSS3, JavaScript
+    IDE & Tools        :  Visual studio Code, Visual Studio, Intellij
+    Web Servers        :  Apache Tomcat 8.0.22, WebLogic 12.2.1
+    Version Control    :  GIT
+
+📂 Featured Projects
+
+🗂️ Generalised Data Structure Library 
+  A comprehensive library of data structures implemented in C++, including linked lists, binary search tree, stacks, queues, and searching/sorting algorithms.
+
+
+🌐 Connect With Me
+  Email     :   omkarbhargude29@gmail.com
+  LinkedIn  :   linkedin.com/in/omkar-bhargude-609a92311/
+  GitHub    :   github.com/Omkarbhargude/
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my work and give a star if you like it.*
+
