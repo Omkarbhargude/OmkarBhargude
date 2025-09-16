@@ -57,7 +57,15 @@ Project Link : https://github.com/Omkarbhargude/Projects/tree/main/Generalised%2
 
 📚  This project  is a Java-based file utility tool that provides functionality for packing multiple files into single archive and unpacking them back all with all the metadata preserved
 
+Project Link : https://github.com/Omkarbhargude/Projects/tree/main/File%20Packer%20%26%20Unpacker%20
+
+🧰 Marvellous Study Tracker App
+
+🔧 This is a Console-based java application designed to help students systematically log, track, summarize, and export their study activity
+
 Project Link : 
+
+
 
 
 
