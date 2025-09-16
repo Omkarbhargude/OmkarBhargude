@@ -55,14 +55,16 @@ Built entirely in **C**, with its own shell to interact with the virtual environ
 ---
 
 #### 🗂️ File Packer & Unpacker
-📚 A Java-based utility tool that packs multiple files into a single archive and unpacks them while preserving metadata. To enhance security, the packed file is encrypted, and only authorised user can decrypt & extract the data
-This project also features Graphical User Interface for user-friendly interaction
+📚 A Java-based utility tool that packs multiple files into a single archive and unpacks them while preserving metadata.  
+🔐 To enhance security, the packed file is encrypted, and only authorised users can decrypt & extract the data.  
+🖥️ This project also features a **Graphical User Interface** for user-friendly interaction.  
 🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/File%20Packer%20%26%20Unpacker)
 
 ---
 
 #### 🧰 Marvellous Study Tracker App
-🔧 A console-based Java application to help students log, track, summarize, and export their study activity. It allows user to maintain daily study records, view summarised grouped data or subject, and export all logs in CVS file for offline reference
+🔧 A console-based Java application to help students log, track, summarise, and export their study activity.  
+📊 It allows users to maintain daily study records, view summarised grouped data by subject, and export all logs as a **CSV file** for offline reference.  
 🔗 [Project Link](https://github.com/Omkarbhargude/Projects/tree/main/Marvellous%20Study%20Tracker%20App)
 
 ---
