@@ -50,7 +50,7 @@ Designed as a reusable library that can be linked with client applications.
 #### ⚙️ Customised Virtual File System (CVFS)
 A custom implementation of a Virtual File System that simulates the core functionality of the Linux file system.  
 Built entirely in **C**, with its own shell to interact with the virtual environment.  
-🔗 [Repo Link]((https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-))
+🔗 [Repo Link](https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-)
 
 ---
 
