@@ -43,7 +43,7 @@
 #### 📚 Generalised Data Structure Library
 A C++ library of generic data structures providing object-oriented implementations of both linear and non-linear structures.  
 Designed as a reusable library that can be linked with client applications.  
-🔗 [Repo Link](https://github.com/Omkarbhargude/Projects/tree/main/Generalised%20Data%20Structure%20Library)
+🔗 [Repo Link](https://github.com/Omkarbhargude/Generalised-Data-Structure-Library)
 
 ---
 
