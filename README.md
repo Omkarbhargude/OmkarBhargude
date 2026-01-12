@@ -46,17 +46,15 @@
   [View Project](https://github.com/Omkarbhargude/FilePacker-Unpacker)
 
 ---
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarBhargude&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
-
 ### 🌐 Connect With Me
 - 📧 **Email:** [omkarbhargude29@gmail.com](mailto:omkarbhargude29@gmail.com)  
 - 💼 **LinkedIn:** [Omkar Bhargude](https://www.linkedin.com/in/omkar-bhargude-609a92311/)  
 - 🚀 **GitHub:** [Omkar bhargude](https://github.com/Omkarbhargude/)
 
 ---
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarBhargude&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my work and give a star if you like it!*
