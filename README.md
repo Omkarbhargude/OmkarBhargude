@@ -11,7 +11,7 @@
 - **Backend**: Spring Boot  
 - **Databases**: MySQL, MongoDB  
 - **Version Control & Tools**: Git, GitHub  
-- **Platforms**: Linux, Windows
+- **Platforms**: Linux Distros, Windows
 
 ---
 
