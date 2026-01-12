@@ -1,73 +1,56 @@
-👋 Hi, I'm Omkar Mahadev Bhargude
+# Hello 👋, I'm Omkar Mahadev Bhargude
+
+- I am a third-year Computer Science student with a strong interest in system programming and backend development.
+- Learning to building efficient software, understanding how systems work internally, and writing clean and maintainable code.
+- Currently, I am strengthening my skills in data structures and algorithms while learning Spring Boot and modern web technologies.
+- My current goal is to become a full-stack developer with strong system programmning.
+---
+## Technical Skill : 
+- **Programming Languages**: C, C++, Java, Python, JavaScript  
+- **Web Technologies**: HTML, CSS  
+- **Backend**: Spring Boot  
+- **Databases**: MySQL, MongoDB  
+- **Version Control & Tools**: Git, GitHub  
+- **Platforms**: Linux, Windows
 
 ---
 
-### 🚀 About Me
-- 🎓 3rd-year Computer Science student passionate about building efficient software  
-- 💻 Proficient in **C, C++, Java** and exploring **JavaScript, Spring Boot & Web Development**  
-- 🧩 Interested in solving problems, implementing **data structures & algorithms**, and writing clean code  
-- 🌱 Currently learning **Spring Boot**, **Win32 SDK**, and refining my **DSA** skills  
-- 🎯 Goal: Become a **Full-Stack Developer** with strong system programming knowledge  
+## 🚀 Projects
+
+### Customised Virtual File System (CVFS)  :-
+
+- This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system.
+- It is built entirely in C, with its own custom shell to interact with the virtual environment.
+- The project provides a practical understanding of system calls, file handling, memory management, and OS internals.
+
+  [View Project](https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-)
 
 ---
 
-### 🛠️ Technical Skills
+### Generalised Data Structure Library
 
-**💻 Programming Paradigms & Languages**  
-- Procedural Programming : `C`  
-- Object-Oriented Programming (OOP) : `C++`  
-- Virtual Machine-based Programming : `Java`  
-- Scripting Languages : `JavaScript`
+- The Generalised Data Structure Library is a reusable C++ library that provides object-oriented implementations of both linear and non-linear data structures.
+- It offers ready-to-use functionalities for fundamental as well as advanced operations, designed in a generic way using C++ templates so they can be reused with any data type.
+- The library follows clean OOP principles, emphasizing modularity, extensibility, and reusability, making it ideal for both academic learning and real-world application development.
 
-**🌐 Web Technologies**  
-- HTML / HTML5  
-- CSS2 / CSS3  
-- JavaScript
-
-**🧰 IDE & Tools**  
-- Visual Studio Code  
-- Visual Studio  
-- IntelliJ IDEA
-
-**🌍 Web Servers**  
-- Apache Tomcat 8.0.22  
-- WebLogic 12.2.1
-
-**🔧 Version Control**  
-- Git  
+  [View Project](https://github.com/Omkarbhargude/Generalised-Data-Structure-Library)
 
 ---
 
-### 📂 Featured Projects
+### FilePacker-Unpacker
 
-#### 📚 Generalised Data Structure Library
-A C++ library of generic data structures providing object-oriented implementations of both linear and non-linear structures.  
-Designed as a reusable library that can be linked with client applications.  
-🔗 [Repo Link](https://github.com/Omkarbhargude/Generalised-Data-Structure-Library)
+- A Java-based file utility tool that allows packing multiple files into a single archive and unpacking them back with all metadata preserved.
+- To enhance security, the packed file is encrypted, and only authorized users can decrypt and extract the data.
+- The project also features a Swing-based GUI for easy and user-friendly interaction.
 
----
-
-#### ⚙️ Customised Virtual File System (CVFS)
-A custom implementation of a Virtual File System that simulates the core functionality of the Linux file system.  
-Built entirely in **C**, with its own shell to interact with the virtual environment.  
-🔗 [Repo Link](https://github.com/Omkarbhargude/Customised-Virtual-File-System-VirtualCFS-)
+  [View Project](https://github.com/Omkarbhargude/FilePacker-Unpacker)
 
 ---
 
-#### 🗂️ File Packer & Unpacker
-A Java-based utility tool that packs multiple files into a single archive and unpacks them while preserving metadata.  
-To enhance security, the packed file is encrypted, and only authorised users can decrypt & extract the data.  
-This project also features a **Graphical User Interface** for user-friendly interaction.  
-🔗 [Repo Link](https://github.com/Omkarbhargude/FilePacker-Unpacker)
+## GitHub Activity Graph
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarBhargude&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
-#### 🧰 Marvellous Study Tracker App
-A console-based Java application to help students log, track, summarise, and export their study activity.  
-It allows users to maintain daily study records, view summarised grouped data by subject, and export all logs as a **CSV file** for offline reference.  
-🔗 [Repo Link](https://github.com/Omkarbhargude/Projects/tree/main/Marvellous%20Study%20Tracker%20App)
-
----
 
 ### 🌐 Connect With Me
 - 📧 **Email:** [omkarbhargude29@gmail.com](mailto:omkarbhargude29@gmail.com)  
