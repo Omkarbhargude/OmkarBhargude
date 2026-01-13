@@ -6,12 +6,12 @@
 - My current goal is to become a full-stack developer with strong system programmning.
 ---
 ## Technical Skill : 
-- **Programming Languages**: **C**, **C++**, **Java**, **Python**, **JavaScript.**  
-- **Web Technologies**: **HTML**, **CSS.**  
-- **Backend**: **SpringBoot.**  
-- **Databases**: **MySQL**, **MongoDB.**  
-- **Version Control & Tools**: **Git**, **GitHub.**  
-- **Platforms**: **Linux Distros**, **Windows.**
+- Programming Languages: **C**, **C++**, **Java**, **Python**, **JavaScript.**  
+- Web Technologies: **HTML**, **CSS.**  
+- Backend: **SpringBoot.**  
+- Databases: **MySQL**, **MongoDB.**  
+- Version Control & Tools: **Git**, **GitHub.**  
+- Platforms: **Linux Distros**, **Windows.**
 
 ---
 
