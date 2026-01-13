@@ -11,7 +11,7 @@
 - Backend :- **SpringBoot.**  
 - Databases :- **MySQL**, **MongoDB.**  
 - Version Control & Tools :- **Git**, **GitHub.**  
-- Platforms :- **Linux Distros**, **Windows.**
+- Platforms :- **Linux Distros**, **Windows NT.**
 
 ---
 
